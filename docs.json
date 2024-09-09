@@ -1,0 +1,56 @@
+{
+  "name": "Kameo Book",
+  "description": "Kameo book",
+  "sidebar": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        {
+          "title": "Introduction",
+          "href": "/",
+          "icon": "globe"
+        },
+        {
+          "title": "Getting Started",
+          "href": "/getting-started",
+          "icon": "rocket"
+        }
+      ]
+    },
+    {
+      "group": "Core Concepts",
+      "pages": [
+        {
+          "title": "Overview",
+          "href": "/core-concepts",
+          "icon": "book"
+        },
+        {
+          "title": "Actors",
+          "href": "/core-concepts/actors",
+          "icon": "users"
+        },
+        {
+          "title": "Messages",
+          "href": "/core-concepts/messages",
+          "icon": "envelope"
+        },
+        {
+          "title": "Requests",
+          "href": "/core-concepts/requests",
+          "icon": "question"
+        },
+        {
+          "title": "Replies",
+          "href": "/core-concepts/replies",
+          "icon": "reply"
+        },
+        {
+          "title": "Supervision",
+          "href": "/core-concepts/supervision",
+          "icon": "shield-alt"
+        }
+      ]
+    }
+  ]
+}
